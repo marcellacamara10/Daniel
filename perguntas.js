@@ -1,0 +1,10 @@
+criaCartao("Naruto", "Qual é o nome completo do protagonista?", "Naruto Uzumaki");
+criaCartao("Sharingan", "Quem foi o primeiro Uchiha mostrado na série?", "Sasuke Uchiha");
+criaCartao("Sensei", "Quem foi o mestre do Time 7?", "Kakashi Hatake");
+criaCartao("Jutsu", "Qual é o jutsu mais famoso do Naruto?", "Rasengan");
+criaCartao("Akatsuki", "Qual é o nome do líder da Akatsuki?", "Pain (Nagato)");
+criaCartao("Bestas", "Quantas caudas tem Kurama?", "Nove caudas");
+criaCartao("Hokage", "Quem é o 5º Hokage da Vila da Folha?", "Tsunade");
+criaCartao("Sannin", "Quem são os três Lendários Sannin?", "Jiraiya, Tsunade e Orochimaru");
+criaCartao("Clã", "De qual clã faz parte o Shikamaru?", "Clã Nara");
+criaCartao("Amizade", "Quem é o melhor amigo e rival do Naruto?", "Sasuke Uchiha");
